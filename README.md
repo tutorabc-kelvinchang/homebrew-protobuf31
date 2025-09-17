@@ -1,6 +1,6 @@
 # Homebrew Protobuf 31.1 Tap
 
-這個 Homebrew Tap 提供 `protobuf` 版本 31.1 的安裝公式。
+這個 Homebrew Tap 提供 `protobuf` 版本 31.1 的安裝方式。
 
 ## 使用方式
 
